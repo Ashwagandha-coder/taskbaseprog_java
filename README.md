@@ -7,3 +7,4 @@
 
 ![Java Задачи](https://user-images.githubusercontent.com/58209188/168428026-4444cd98-63d4-4bbc-8155-bd5dfd819543.png)
 
+
